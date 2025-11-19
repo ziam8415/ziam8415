@@ -17,10 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ziam8415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ziam8415" height="30" width="40" /></a>
-<a href="https://dev.to/ziam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ziam" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/Md ziam Akhando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md ziam Akhando" height="30" width="40" /></a>
-<a href="https://fb.com/Md ziàm Akhindo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md ziàm Akhindo" height="30" width="40" /></a>
-<a href="https://twitter.com/ziam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ziam" height="30" width="40" /></a>
+<a href="https://fb.com/mdziamakhand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Md ziàm Akhindo" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/ziam1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziam1234" height="30" width="40" /></a>
 </p>
 
