@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co.com/9mm96hCN/2.png" width="100%" hight="70%" alt="GitHub Banner"/>
+  <img src="https://i.ibb.co.com/hRcp3CjC/ziam-Cover-Photo.png" width="100%" hight="70%" alt="GitHub Banner"/>
 </p>
 
 ---
